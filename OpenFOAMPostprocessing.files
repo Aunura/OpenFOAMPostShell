@@ -1,0 +1,5 @@
+sixDof/sixDofPostProcess.sh
+sixDof/sixDofPostProcessOver.sh
+sixDof/sixMain.m
+waveHeight/Main.m
+waveHeight/getSensorPos.sh
